@@ -10,7 +10,7 @@ An Object-Oriented Program written in C++.
 5. Citizen.
 
 ## What Can It Do?
-1. Choose between two diffrent type of elctions. simple elections and ragular elections (simple elections is elections with partys only).
+1. Runs on two diffrents type of elections.
 2. Add County / Party / Citizen / Candidates.
 3. Print list of all counties/parties/citizens.
 4. Make an actual votes.
